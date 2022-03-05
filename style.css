@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+ul {
+  background-color: rgb(250, 146, 146);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+ol {
+  background-color: aqua;
+}
+
+h1 {
+  background-color: bisque;
+  color: rgb(250, 69, 69);
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
